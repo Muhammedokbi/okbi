@@ -4,21 +4,20 @@
 
 <TR>
 
-	>Head1<
-
-	<item2>
+	>4J Studios< (2019-2020)
 
 <TR>
 
-	>Head3<
-
-	<Item 4>
+	>Head3< (2020-2022)
 
 <TR>
 
-	>Head5<
+	>OpenAI< (2022-2023)
 
-	<Item 6>
+</TR>
+<TR>
+
+	>REYNIK STÜDYO (2024-)
 
 </TR>
 
