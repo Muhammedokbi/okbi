@@ -9,6 +9,6 @@
 
 <br />
 
-[discord]: https://discord.gg/yqHmvcr
+[discord]: https://discord.com/invite/n9Zzf5Rrhc
 [instagram]: https://www.instagram.com/muhammedokbii/
 
