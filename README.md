@@ -1,29 +1,5 @@
 
 
-<TABLE BORDER>
-
-<TR>
-
-	>4J Studios< (2019-2020)
-
-<TR>
-
-	>Head3< (2020-2022)
-
-<TR>
-
-	>OpenAI< (2022-2023)
-
-</TR>
-<TR>
-
-	>REYNIK STÜDYO (2024-)
-
-</TR>
-
-</TABLE>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedokbi&layout=compact)
 
 ### hesaplar:
